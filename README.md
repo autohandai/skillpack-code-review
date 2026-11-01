@@ -38,6 +38,4 @@ If a check gives you noise, please open an issue with an example.
 
 Runs in Autohand Code (free CLI, any model): https://autohand.ai/cli/?utm_source=skillpack-code-review&utm_medium=github
 
-Until 31 October 2026: first month of Pro for $10 with code FOUNDING10 (first-time customers).
-
 MIT licensed. See LICENSE.
